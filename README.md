@@ -17,3 +17,6 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column and a "New Note" button appears in the navigation
 WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
+
+https://dcast217.github.io/Note-Taker/
+![image](https://github.com/dcast217/Note-Taker/assets/151418582/aa4f9d42-bb00-42cc-987c-b57b79edde51)
